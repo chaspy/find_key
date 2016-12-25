@@ -21,3 +21,8 @@ not found key
  ~/find_key> python --version
 Python 2.7.10
 ```
+
+# tests
+```sh
+python -m unittest tests.test_find_key
+```
